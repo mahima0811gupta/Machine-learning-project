@@ -1,1 +1,1 @@
-# Machine-learning-project
+# Multidisease predictionproject
